@@ -15,7 +15,7 @@ With over 10 years of experience in Python, ML/AI framework development, and dat
 
 ### About Me
 
-I specialize in topic modeling, text summarization, semantic modeling, NER, text-to-text generation, chatbots, and recommendation systems. I am adept at troubleshooting, debugging, and upgrading existing software to meet modern development standards.
+As an NLP Engineer and AI Specialist with over a decade in the industry, I excel in harnessing the power of Python and AI/ML frameworks to develop cutting-edge solutions. My domain expertise lies in crafting state-of-the-art generative models that empower innovative applications in natural language processing. I thrive on transforming complex challenges into intuitive AI-driven interactions, making significant strides in the realm of semantic analysis and automated reasoning.
 
 ---
 
@@ -59,6 +59,7 @@ August 2007 - June 2010
 - TensorFlow
 - Natural Language Processing
 - Machine Learning
+- Generative AI Techniques
 
 ---
 
@@ -66,6 +67,7 @@ August 2007 - June 2010
 
 - [Towards Personalized Intelligence at Scale](https://arxiv.org/pdf/2203.06668.pdf)
 - [The Jaseci Programming Paradigm and Runtime Stack](https://ieeexplore.ieee.org/document/10129141)
+- [A Trade-off Analysis of Replacing Proprietary LLMs with Open Source SLMs in Production](https://arxiv.org/abs/2312.14972)
 
 ---
 
