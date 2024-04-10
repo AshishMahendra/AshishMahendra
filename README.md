@@ -9,7 +9,6 @@ With over 10 years of experience in Python, ML/AI framework development, and dat
 ### Contact Information
 
 **Email:** ashishmahendra@live.com  
-**Phone:** +919903443333  
 **Location:** Kolkata, India 700039  
 
 ---
