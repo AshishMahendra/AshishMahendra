@@ -2,7 +2,7 @@
 
 ## NLP Engineer & AI Specialist
 
-With over 10 years of experience in Python, ML/AI framework development, and data analysis, I am proficient in building NLP models using TensorFlow and PyTorch for a wide range of tasks.
+Accomplished NLP Engineer and Software Developer with over 11 years of experience, including 6+ years specializing in Machine Learning. Expertise in designing, developing, and deploying advanced NLP solutions using Python, TensorFlow, PyTorch, and LLM, driving significant improvements in accuracy and efficiency. Proven leader in orchestrating end-to-end project lifecycles within fast-paced, high-tech environments, successfully delivering scalable and innovative AI-driven products. Adept at cross-functional collaboration, technical research, and mentoring teams to achieve organizational objectives and advance the state-of-the-art in NLP technologies.
 
 ---
 
