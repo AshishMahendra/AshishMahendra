@@ -2,7 +2,7 @@
 ## 🚀 Tech Lead | AI/ML Architect | Generative AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashish-mahendra-90b34165/)
-[![Email](https://img.shields.io/badge/Email-ashishmahendra%40live.com-red)](mailto:ashishmahendra@live.com)
+[![Email](https://img.shields.io/badge/Email-ashishmahendra-red)](mailto:ashishmahendra@live.com)
 [![GitHub followers](https://img.shields.io/github/followers/AshishMahendra?style=social)](https://github.com/AshishMahendra)
 
 Transforming businesses through cutting-edge AI solutions | 11+ years crafting enterprise-scale ML systems | Leading teams in building next-gen LLM applications
