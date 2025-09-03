@@ -21,7 +21,7 @@ As an NLP Engineer and AI Specialist with over a decade in the industry, I excel
 
 ### Professional Experience
 
-#### Development Team Lead (AI/ML)
+#### Senior Lead (AI/ML)
 **Double Edge Consulting Pvt. Ltd., Gurugram**  
 _November 2021 - Present_
 - Developing an ML framework for multi-purpose NLP models using PyTorch and TensorFlow.
