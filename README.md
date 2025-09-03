@@ -143,7 +143,7 @@ Feel free to reach out!
 
 📧 **Email:** ashishmahendra@live.com  
 📍 **Location:** Kolkata, India  
-🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ashishmahendra)
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ashish-mahendra-90b34165/)
 
 ---
 
