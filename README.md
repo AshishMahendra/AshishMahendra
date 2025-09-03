@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-ashishmahendra-red)](mailto:ashishmahendra@live.com)
 [![GitHub followers](https://img.shields.io/github/followers/AshishMahendra?style=social)](https://github.com/AshishMahendra)
 
-Transforming businesses through cutting-edge AI solutions | 11+ years crafting enterprise-scale ML systems | Leading teams in building next-gen LLM applications
+Transforming businesses through cutting-edge AI solutions | 12+ years crafting enterprise-scale systems | Leading teams in building next-gen LLM applications
 
 ---
 
